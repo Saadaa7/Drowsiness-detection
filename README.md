@@ -1,2 +1,2 @@
 # Drowsiness-detection
-drowsiness detection using teachable machhone
+drowsiness detection using teachable machine
